@@ -33,5 +33,5 @@ Dump1090-fa in Docker.
  3. Open browser and access the following address.
 
 ```
-http://[Your IP]:5005
+http://[Your IP]:8080
 ```
